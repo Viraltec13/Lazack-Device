@@ -10,12 +10,12 @@
     "WaBot-Base"
   ],
 "env": {
-      "PREFIX": {
+      "PREFIX": {.}
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
       "value": ""
     },
-"OWNER_NAME": {
+"OWNER_NAME": {Viraltech}
       "description": "owner name of the bot or Your Name",
       "required": false,
       "value": ""
